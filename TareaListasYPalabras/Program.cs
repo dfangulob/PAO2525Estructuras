@@ -7,15 +7,14 @@
 //es para una tarea me puedes ayudar el paso a paso de cada ejercicio
 
 
-//2.-Escribir un programa que almacene en una lista los números del 1 al 10 y los muestre por pantalla en orden inverso separados por comas.
+//3.-Escribir un programa que almacene los vectores (1,2,3) y (-1,0,2) en dos listas y muestre por pantalla su producto escalar.
 using System;
 
 class Program
 {
     static void Main()
     {
-        Console.WriteLine("Ejercicio 2:");
-        Ejercicio2.Ejecutar();
+        Console.WriteLine("Ejercicio 3:");
+        Ejercicio3.Ejecutar();
     }
 }
-
