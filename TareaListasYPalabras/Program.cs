@@ -7,23 +7,15 @@
 //es para una tarea me puedes ayudar el paso a paso de cada ejercicio
 
 
-//Ejercicio 1 Escribir un programa que almacene las asignaturas de un curso (por ejemplo Matemáticas, Física, Química, Historia y Lengua) en una lista y la muestre por pantalla.
-
+//2.-Escribir un programa que almacene en una lista los números del 1 al 10 y los muestre por pantalla en orden inverso separados por comas.
 using System;
-using System.Collections.Generic;
 
 class Program
 {
     static void Main()
     {
-        List<string> asignaturas = new List<string> { "Matemáticas", "Física", "Química", "Historia", "Lengua" };
-
-        Console.WriteLine("Asignaturas del curso:");
-        foreach (string materia in asignaturas)
-        {
-            Console.WriteLine("- " + materia);
-        }
+        Console.WriteLine("Ejercicio 2:");
+        Ejercicio2.Ejecutar();
     }
 }
-
 
