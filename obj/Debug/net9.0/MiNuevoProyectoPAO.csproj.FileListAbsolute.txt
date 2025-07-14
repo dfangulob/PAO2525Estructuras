@@ -1,0 +1,14 @@
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\bin\Debug\net9.0\MiNuevoProyectoPAO.exe
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\bin\Debug\net9.0\MiNuevoProyectoPAO.deps.json
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\bin\Debug\net9.0\MiNuevoProyectoPAO.runtimeconfig.json
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\bin\Debug\net9.0\MiNuevoProyectoPAO.dll
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\bin\Debug\net9.0\MiNuevoProyectoPAO.pdb
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\MiNuevoProyectoPAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\MiNuevoProyectoPAO.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\MiNuevoProyectoPAO.AssemblyInfo.cs
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\MiNuevoProyectoPAO.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\MiNuevoProyectoPAO.dll
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\refint\MiNuevoProyectoPAO.dll
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\MiNuevoProyectoPAO.pdb
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\MiNuevoProyectoPAO.genruntimeconfig.cache
+C:\Users\DIEGO\Documents\MiNuevoProyectoPAO\obj\Debug\net9.0\ref\MiNuevoProyectoPAO.dll
