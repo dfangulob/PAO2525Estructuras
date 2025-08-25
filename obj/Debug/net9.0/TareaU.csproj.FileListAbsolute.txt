@@ -1,0 +1,14 @@
+C:\Users\DIEGO\Documents\TareaU\bin\Debug\net9.0\TareaU.exe
+C:\Users\DIEGO\Documents\TareaU\bin\Debug\net9.0\TareaU.deps.json
+C:\Users\DIEGO\Documents\TareaU\bin\Debug\net9.0\TareaU.runtimeconfig.json
+C:\Users\DIEGO\Documents\TareaU\bin\Debug\net9.0\TareaU.dll
+C:\Users\DIEGO\Documents\TareaU\bin\Debug\net9.0\TareaU.pdb
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\TareaU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\TareaU.AssemblyInfoInputs.cache
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\TareaU.AssemblyInfo.cs
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\TareaU.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\TareaU.dll
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\refint\TareaU.dll
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\TareaU.pdb
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\TareaU.genruntimeconfig.cache
+C:\Users\DIEGO\Documents\TareaU\obj\Debug\net9.0\ref\TareaU.dll
